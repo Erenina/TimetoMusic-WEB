@@ -68,4 +68,4 @@ panelinden ekleyip GoDaddy DNS'ini onların verdiği kayıtlara göre güncelle.
 
 - TestFlight linki yayın sonrası App Store linkiyle değiştirilecek
   (tüm sayfalarda `testflight.apple.com/join/SKZj7DAN` ara-değiştir)
-- İletişim e-postası şu an `erncgty@gmail.com` — değişirse ara-değiştir
+- İletişim e-postası şu an `timetomusic@hotmail.com` — değişirse ara-değiştir
